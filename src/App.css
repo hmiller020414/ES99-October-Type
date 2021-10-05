@@ -1,6 +1,7 @@
 .App-header {
   width: fit-content;
   width: -moz-fit-content;
+  max-width: 85%;
   margin: 40px auto 0 auto;
 }
 
@@ -17,6 +18,7 @@
   font-size: 5rem;
   font-weight: 400;
   color: #eee;
+  text-align: center;
 }
 
 .Gallery {
@@ -24,6 +26,7 @@
 }
 
 .Gallery-ul {
+  padding: 0;
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
