@@ -2,17 +2,17 @@ const DailyInfo = [
    {
        date: 10.01,
        letter: 'A',
-       image: 'A_10.1.21.jpg',
+       image: 'A_10.1.21.gif',
        artist: 'Sarah Jean Ferraris',
        team: 'Design'
    },
-//    {
-//        date: 10.02,
-//        letter: 'B',
-//        image: 'B_10.2.21.jpg',
-//        artist: 'Elizabeth Thornton',
-//        team: 'Design'
-//    },
+   {
+       date: 10.02,
+       letter: 'B',
+       image: 'B_10.02.21_Liz.jpg',
+       artist: 'Elizabeth Thornton',
+       team: 'Design'
+   },
    {
        date: 10.03,
        letter: 'C',
