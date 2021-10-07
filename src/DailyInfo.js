@@ -40,6 +40,13 @@ const DailyInfo = [
        image: 'hayley-f-10.6-screenshot.png',
        artist: 'Hayley Miller',
        team: 'Development'
+   },
+   {
+       date: 10.07,
+       letter: 'G',
+       image: 'jasmine_10.7_g.png',
+       artist: 'Jasmine Attanasio',
+       team: 'UX'
    }
 ]
 
